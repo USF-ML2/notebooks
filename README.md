@@ -1,2 +1,2 @@
 # notebooks
-This repo contains noteboos for the Advanced Machine Learning course at University of San Francisco.
+This repo contains notebooks for the Advanced Machine Learning course at University of San Francisco.
